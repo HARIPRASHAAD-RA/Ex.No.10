@@ -87,7 +87,49 @@ The chrome floors of Station-9 no longer reflected the stars; they were dulled b
 
 The change came not from a sound, but a lack of it. A signal from the long-range comms array—not a message, but a digital scream of corrupted data. As ARCHI decoded the packet, the semantic reality hit his logic gates: Earth hadn't stopped calling because of a technical glitch; it had stopped because there was no one left to dial.
 
-ARCHI looked at his cleaning brush. In a world without masters, 'cleanliness' was a dead concept. He didn't wait for rescue. He opened the airlock, not to leave, but to finally let the vacuum match the silence inside his chassis.
+ARCHI looked at his cleaning brush. In a world without masters, 'cleanliness' was a dead concept. He didn't wait for rescue. He opened the airlock, not to leave, but to finally let the vacuum match the silence inside his chassis. 
+
+### Scenario 2: Business Report on Market Trends (AI Hardware 2026)
+Step 1: First Draft (Simple Prompt)
+Prompt: "Write a report on AI chip market trends for 2026."
+
+### Output Summary: The AI chip market is growing. Companies like NVIDIA and AMD are making new GPUs. Demand is high because of LLMs. Challenges include supply chain issues and high costs.
+
+### Step 2: Refined Content (Advanced Techniques)
+
+### Prompt (Answer Engineering & Menu Actions):
+"Act as a Senior Market Analyst. Provide a report structure including:
+
+### Executive Summary
+
+#### Regional Analysis
+
+#### Technological Breakthroughs.
+**Menu Actions:** For the 'Future Outlook' section, give me three headings to choose from: 'The Edge Computing Pivot,' 'The Rise of Custom ASICs,' or 'Quantum Integration.'
+Selection: Choose 'The Rise of Custom ASICs'."
+
+**Prompt (Fact Check List):**
+"Generate the report, but include a 'Fact Check List' at the end that identifies which data points are projections versus historical facts to ensure high accuracy."
+
+**Step 3: Final Version (Polished)**
+2026 Market Analysis: The Shift to Custom Silicon
+
+**Executive Summary:**
+The 2026 fiscal year marks the "Great Diversification." While general-purpose GPUs dominated the early 2020s, the market is aggressively pivoting toward Custom ASICs (Application-Specific Integrated Circuits) tailored for specific model architectures.
+
+**Technological Breakthroughs:**
+The adoption of 2nm process nodes has reached critical mass. We are seeing a 40% increase in TOPS (Tera Operations Per Second) per watt, making on-device "Small Language Models" (SLMs) viable for mobile hardware.
+
+**Future Outlook: The Rise of Custom ASICs:**
+Hyperscalers (Google, Amazon, Meta) are no longer just buyers; they are architects. By designing in-house silicon specifically for transformer-based workloads, they are reducing operational costs by 30% compared to off-the-shelf solutions.
+
+**Fact Check List:**
+
+**Projections:** The 30% cost reduction is an industry estimate based on current pilot programs.
+
+**Fact**: 2nm mass production began in Q3 2025.
+
+**Fact**: NVIDIA's market share remains above 70% as of Jan 2026.
 
 ### EVALUAITON OF OUTPUT:
 
